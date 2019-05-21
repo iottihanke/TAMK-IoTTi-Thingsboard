@@ -1,7 +1,7 @@
 
 	KN 12.1.2019
 
-
+MQTT JSON data Syntax from Publisher 
   
 
 Thinksboard
