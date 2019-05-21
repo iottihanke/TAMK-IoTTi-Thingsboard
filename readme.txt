@@ -1,6 +1,6 @@
 
 KN 21.5.2019
-Using instructions are in pptx file
+Using instructions are in MQTT_Thingsboard_2019_05_17.pptx file
 
 MQTT JSON data Syntax from Publisher 
   
