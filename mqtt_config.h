@@ -15,6 +15,6 @@
 #define out_host_addr 		"tb.tamk.cloud"
 #define out_port_number 	1883
 #define keep_alive_out		60
-#define user_name		"dekati_1"
+#define user_name		"tok_iotti"
 #define pass_wd			NULL
 
