@@ -1,6 +1,6 @@
 
 KN 21.5.2019
-Using instructions are in ppx file
+Using instructions are in pptx file
 
 MQTT JSON data Syntax from Publisher 
   
