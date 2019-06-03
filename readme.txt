@@ -1,6 +1,9 @@
 
-KN 21.5.2019
-Using instructions are in MQTT_Thingsboard_2019_05_17.pptx file
+KN 3.6.2019
+
+Using insructions for Thingsboard are in Userguide_Thingsboard.pptx
+
+Using instructions for Gataway client are in MQTT_Thingsboard_2019_05_17.pptx file
 
 MQTT JSON data Syntax from Publisher 
   
